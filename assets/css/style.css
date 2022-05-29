@@ -1,0 +1,28 @@
+header {
+    background-color: lightblue;
+}
+
+.linkColor {
+    color: black;
+}
+
+.presentation {
+    background-image: url('/assets/img/sistems.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+}
+
+.linkColor:hover {
+    color: white;
+}
+
+.colorText {
+    color: white;
+}
+
+.imgSize {
+    width: 750px;
+    height: 500px;
+}
