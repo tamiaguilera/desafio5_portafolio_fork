@@ -7,7 +7,7 @@ header {
 }
 
 .presentation {
-    background-image: url('/assets/img/sistems.jpg');
+    background-image: url('../img/sistems.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
